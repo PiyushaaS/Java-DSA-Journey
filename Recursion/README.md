@@ -14,6 +14,7 @@ Recursion is a technique where a function calls itself to solve a smaller instan
 - Sum of first N numbers
 - Print numbers from N to 1 using recursion
 - Reverse an array using Recursion
+- To check if the string is palindrome using recursion
   
 ## Language Used
 Java
