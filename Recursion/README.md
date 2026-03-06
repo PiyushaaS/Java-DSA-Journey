@@ -13,6 +13,7 @@ Recursion is a technique where a function calls itself to solve a smaller instan
 - Print numbers from 1 to N using recursion
 - Sum of first N numbers
 - Print numbers from N to 1 using recursion
+- Reverse an array using Recursion
   
 ## Language Used
 Java
