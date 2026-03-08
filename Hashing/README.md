@@ -18,7 +18,7 @@ Hashing is a powerful technique used to store and retrieve data efficiently usin
 | `CountFrequency.java`         | Counts the frequency of elements using hashing        |
 | `HighestOccuringElement.java` | Finds the element with the highest frequency          |
 | `PrimeFrequency.java`         | Checks if any element appears a prime number of times |
-| `DigitCount-Leetcode.java`    | LeetCode problem solved using hashing                 |
+| `DigitCount-Leetcode.java`    | LeetCode problem solved using hashing(Problem no.2283)|
 
 ## Technologies Used
 
