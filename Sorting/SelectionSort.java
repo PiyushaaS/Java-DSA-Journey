@@ -1,6 +1,5 @@
-import java.util.Arrays;
 class Solution{
-    public void SelectionSort(int[] arr){
+    public int[] SelectionSort(int[] arr){
         int n=arr.length;
         for(int i=0;i<n-1;i++){
             int min=i;
@@ -13,11 +12,11 @@ class Solution{
             arr[i]=arr[min];
             arr[min]=temp;
         }
-        System.out.print(Arrays.toString(arr));
+        return arr;
     }
     public static void main(String[] args){
         int[] arr={3,1,5,2,6};
         Solution obj= new Solution();
-        obj.SelectionSort(arr);
+        System.out.print(obj.SelectionSort(arr));
     }
 }
