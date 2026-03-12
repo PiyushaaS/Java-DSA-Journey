@@ -1,16 +1,16 @@
-import java.util.*;
+import java.util.Arrays;
 class Solution{
     public void RotateArray(int[] arr,int k){
         k=k%arr.length;
-        ArrayList<Integer> temp= new ArrayList<>();
+        int[] temp= new int[k];
         for(int i=0;i<k;i++){
-            temp.add(arr[i]);
+            temp[i]=arr[i];
         }
         for(int i=k;i<arr.length;i++){
             arr[i-k]=arr[i];
         }
-        for(int i= 0;i<temp.size();i++){
-            arr[arr.length-k+i]=temp.get(i);
+        for(int i= 0;i<k;i++){
+            arr[arr.length-k+i]=temp[i];
         }
     }
     public static void main(String[] args){
