@@ -10,4 +10,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/PiyushaaS/Java-DSA-Journey/tree/master/0136-single-number) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/PiyushaaS/Java-DSA-Journey/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/PiyushaaS/Java-DSA-Journey/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
