@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/PiyushaaS/Java-DSA-Journey/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/PiyushaaS/Java-DSA-Journey/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/PiyushaaS/Java-DSA-Journey/tree/master/0053-maximum-subarray) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/PiyushaaS/Java-DSA-Journey/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
