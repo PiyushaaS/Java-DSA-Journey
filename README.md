@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PiyushaaS/Java-DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/PiyushaaS/Java-DSA-Journey/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/PiyushaaS/Java-DSA-Journey/tree/master/0485-max-consecutive-ones) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/PiyushaaS/Java-DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/PiyushaaS/Java-DSA-Journey/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/PiyushaaS/Java-DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/PiyushaaS/Java-DSA-Journey/tree/master/0443-string-compression) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/PiyushaaS/Java-DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/PiyushaaS/Java-DSA-Journey/tree/master/0242-valid-anagram) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/PiyushaaS/Java-DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
