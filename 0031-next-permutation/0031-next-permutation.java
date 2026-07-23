@@ -10,13 +10,13 @@ class Solution {
         }
         if(index==-1){
             reverse(nums,0,n-1);
-            return;     
+            return;
         }
         for(int i=n-1;i>index;i--){
             if(nums[i]>nums[index]){
-                int temp=nums[index];
-                nums[index]=nums[i];
-                nums[i]=temp;
+                int temp=nums[i];
+                nums[i]=nums[index];
+                nums[index]=temp;
                 break;
             }
         }
