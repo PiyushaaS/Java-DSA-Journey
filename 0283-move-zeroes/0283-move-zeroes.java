@@ -10,16 +10,13 @@ class Solution {
         if(index==-1){
             return;
         }
-        int i=index;
-        int j=i+1;
-        while(j<nums.length){
+        for(int j=index+1;j<nums.length;j++){
             if(nums[j]!=0){
                 int temp=nums[j];
-                nums[j]=nums[i];
-                nums[i]=temp;
-                i++;
+                nums[j]=nums[index];
+                nums[index]=temp;
+                index++;
             }
-            j++;
         }
     }
 }
