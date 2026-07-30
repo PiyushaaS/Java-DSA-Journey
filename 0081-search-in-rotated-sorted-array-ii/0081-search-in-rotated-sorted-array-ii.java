@@ -8,14 +8,14 @@ class Solution {
             if (nums[mid] == target) {
                 return true;
             }
-            if(nums[low]==nums[mid] && nums[mid]==nums[high]){
+            if (nums[low] == nums[mid] && nums[mid] == nums[high]) {
                 low++;
                 high--;
             }
             //left sorted
             else if (nums[low] <= nums[mid]) {
                 //if in the left, then eliminate the right half
-                if (nums[low] <= target && nums[mid] >= target) {
+                if (nums[low] <= target && nums[mid] > target) {
                     high = mid - 1;
                 }
                 //if not, eliminate the left half 
@@ -26,7 +26,7 @@ class Solution {
             //right sorted
             else {
                 //if in right, eliminate left half
-                if (nums[high] >= target && nums[mid] <= target) {
+                if (nums[high] >= target && nums[mid] < target) {
                     low = mid + 1;
                 }
                 //else eliminate right half 
