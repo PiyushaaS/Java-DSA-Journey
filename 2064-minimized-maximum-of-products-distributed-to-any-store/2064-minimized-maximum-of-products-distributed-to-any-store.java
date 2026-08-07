@@ -17,7 +17,7 @@ class Solution {
     }
 
     public boolean isPossible(int[] quantities, int x, int n) {
-        int store = 0;
+        long store = 0;
         for (int quantity : quantities) {
             store += (quantity + x - 1) / x;
             if (store > n) {
