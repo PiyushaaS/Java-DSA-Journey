@@ -19,15 +19,4 @@ class Solution {
         }
         return low;
     }
-
-    public boolean findHour(int[] piles, int speed, int limit) {
-        int hour = 0;
-        for (int pile : piles) {
-            hour += (pile + speed - 1) / speed;
-            if (hour > limit) {
-                return false;
-            }
-        }
-        return true;
-    }
 }
