@@ -17,7 +17,7 @@ class Solution {
     }
 
     public boolean isPossible(int[] nums, int number, int limit) {
-        int total = 0;
+        long total = 0;
         for (int num : nums) {
             total += (num + number - 1) / number;
             if (total > limit) {
