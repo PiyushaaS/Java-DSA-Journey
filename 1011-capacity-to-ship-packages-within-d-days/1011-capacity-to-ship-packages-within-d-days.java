@@ -19,7 +19,7 @@ class Solution {
     }
 
     public boolean isPossible(int[] weights, int capacity, int limit) {
-        long total = 0;
+        int total = 0;
         int days = 1;
         for (int weight : weights) {
             total += weight;
