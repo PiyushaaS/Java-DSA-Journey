@@ -139,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/PiyushaaS/Java-DSA-Journey/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/PiyushaaS/Java-DSA-Journey/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
