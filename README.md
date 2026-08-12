@@ -41,12 +41,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/PiyushaaS/Java-DSA-Journey/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/PiyushaaS/Java-DSA-Journey/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/PiyushaaS/Java-DSA-Journey/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/PiyushaaS/Java-DSA-Journey/tree/master/0050-powx-n) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/PiyushaaS/Java-DSA-Journey/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/PiyushaaS/Java-DSA-Journey/tree/master/0050-powx-n) |
 ## Dynamic Programming
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/PiyushaaS/Java-DSA-Journey/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/PiyushaaS/Java-DSA-Journey/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/PiyushaaS/Java-DSA-Journey/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
